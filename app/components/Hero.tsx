@@ -21,7 +21,7 @@ const Hero = () => {
                      }}/>
             </h1>
             </div>
-            <span className="mb-8 ml-24 text-gray-400 text-lg pl-4 mt-4 leading-relaxed">"I wanna express Feeling in Code,  Coding is my Present, Passion, Pleasure"
+            <span className="mb-8 ml-24 text-gray-400 text-lg pl-4 mt-4 leading-relaxed">I wanna express Feeling in Code,  Coding is my Present, Passion, Pleasure
                    
                       </span>          
             <div className="flex ml-24 mt-14 justify-center">
