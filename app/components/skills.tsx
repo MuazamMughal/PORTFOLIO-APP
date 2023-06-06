@@ -1,8 +1,8 @@
 import React from 'react'
-import {MdEngineering} from "react-icons/Md"
-import {MdDeveloperMode} from "react-icons/Md"
-import {MdOutlineDesignServices} from "react-icons/Md"
-import {MdGraphicEq} from "react-icons/Md"
+import {MdEngineering} from "react-icons/md"
+import {MdDeveloperMode} from "react-icons/md"
+import {MdOutlineDesignServices} from "react-icons/md"
+import {MdGraphicEq} from "react-icons/md"
 
 const Skills = () => {
   return (

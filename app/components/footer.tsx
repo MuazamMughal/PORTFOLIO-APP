@@ -1,10 +1,10 @@
  import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import {FaFacebookF} from "react-icons/Fa"
-import {FaTwitter} from "react-icons/Fa"
-import {FaGithub} from "react-icons/Fa"
-import {FaLinkedinIn} from "react-icons/Fa"
+import {FaFacebookF} from "react-icons/fa"
+import {FaTwitter} from "react-icons/fa"
+import {FaGithub} from "react-icons/fa"
+import {FaLinkedinIn} from "react-icons/fa"
  const Footer = () => {
    return (
      <div>
