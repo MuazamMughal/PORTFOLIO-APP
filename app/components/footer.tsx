@@ -1,10 +1,7 @@
  import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import {FaFacebookF} from "react-icons/Fa"
-import {FaTwitter} from "react-icons/Fa"
-import {FaGithub} from "react-icons/Fa"
-import {FaLinkedinIn} from "react-icons/Fa"
+
  const Footer = () => {
    return (
      <div>
@@ -22,17 +19,17 @@ import {FaLinkedinIn} from "react-icons/Fa"
     </p>
     <span className="inline-flex mr-6 gap-4 sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
       <Link href = "https://www.facebook.com/muazam.mughal.52/" className="text-xl hover:text-2xl  hover:text-gray-100" >
-        <FaFacebookF/> 
+       
         </Link>
       <Link  href = "https://twitter.com/MuazaMughal"className="text-xl hover:text-2xl  hover:text-gray-100" >
-        <FaTwitter/>
+    
 
       </Link>
       <Link href = "https://github.com/MuazamMughal" className="text-xl hover:text-2xl  hover:text-gray-100">
-        <FaGithub/>
+        
         </Link> 
       <Link href = "" className="text-xl hover:text-2xl  hover:text-gray-100">
-        <FaLinkedinIn/>
+        
          </Link>
     </span>
   </div>
