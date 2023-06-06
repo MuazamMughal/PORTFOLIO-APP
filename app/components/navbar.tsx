@@ -20,7 +20,7 @@ const Navbar = () => {
         <Link href = {"#contact"} className="mr-5 text-lg hover:text-xl hover:text-gray-100">Contact</Link>
       </nav>
       <div className=' mr-18'>
-        <button className="flex   items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded-lg text-base mt-4 md:mt-0">Download CV
+        <button className="flex text-gray-600  items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded-lg text-base mt-4 md:mt-0">Download CV
        
         </button>
       </div>
