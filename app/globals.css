@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.costom-image{
+    background-image: url("../public/annie-spratt-6a3nqQ1YwBw-unsplash.jpg");
+}
