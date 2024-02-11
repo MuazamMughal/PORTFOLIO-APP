@@ -1,6 +1,7 @@
 # PORTFOLIO-APP
 My first portfolio app
-
+the domain on which it is deployed is
+https://portfolio-app-muazammughal.vercel.app
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
